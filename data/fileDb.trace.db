@@ -1,0 +1,6 @@
+2022-07-07 10:47:43 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TB_COINDESK" not found (this database is empty); SQL statement:
+select tb_coindes0_.curcd as curcd1_0_0_, tb_coindes0_.createdate as createda2_0_0_, tb_coindes0_.lastupdatedate as lastupda3_0_0_, tb_coindes0_.name as name4_0_0_, tb_coindes0_.rate as rate5_0_0_ from tb_coindesk tb_coindes0_ where tb_coindes0_.curcd=? [42104-214]
+2022-07-07 10:47:52 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TB_COINDESK" not found (this database is empty); SQL statement:
+select tb_coindes0_.curcd as curcd1_0_0_, tb_coindes0_.createdate as createda2_0_0_, tb_coindes0_.lastupdatedate as lastupda3_0_0_, tb_coindes0_.name as name4_0_0_, tb_coindes0_.rate as rate5_0_0_ from tb_coindesk tb_coindes0_ where tb_coindes0_.curcd=? [42104-214]
